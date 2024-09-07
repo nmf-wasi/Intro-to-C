@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+   int total;
+   scanf("%d",&total);
+   int daughter=total/5;
+   int father=daughter*4;
+printf("%d %d\n",father, daughter);
+    return 0;
+}

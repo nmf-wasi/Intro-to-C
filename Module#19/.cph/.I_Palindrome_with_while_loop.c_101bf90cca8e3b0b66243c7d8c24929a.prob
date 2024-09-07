@@ -1,0 +1,1 @@
+{"name":"Local: I_Palindrome_with_while_loop","url":"e:\\Phitron\\Module#19\\I_Palindrome_with_while_loop.c","tests":[{"id":1715277906638,"input":"madam","output":"YES"},{"id":1715277935002,"input":"momam","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module#19\\I_Palindrome_with_while_loop.c","group":"local","local":true}

@@ -1,0 +1,15 @@
+#include<stdio.h>
+void printing_func(int input)
+{
+      if(input==0) return; //base case
+    printing_func(input-1);
+            printf("I love Recursion\n");
+    
+}
+int main()
+{
+   int input;
+   scanf("%d",&input);
+   printing_func(input);
+    return 0;
+}
